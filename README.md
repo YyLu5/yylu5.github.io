@@ -1,4 +1,6 @@
-### About Me     
+
+# About Me
+
 As a PhD candidate in Statistics and Data Science at the University of Arizona, I have over 5 years of research experience in bioinformatics and multi-omics data analysis. I am fluent in statistical programming languages and excel in data visualization techniques. My proficiency in statistical models and methods allows me to work effectively with large, complex datasets. I have a strong track record of collaboration with interdisciplinary teams and successfully presenting to diverse audiences in various professional settings.
 
 # Education
