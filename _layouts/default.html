@@ -16,8 +16,10 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner" style="background-image: url('./assets/banner.png'); background-size: cover; background-position: center;">
+     {% comment %}
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      {% endcomment %}
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
@@ -28,6 +30,14 @@
     </header>
 
     <main id="content" class="main-content" role="main">
+      <div class="content-container" style="display: flex;">
+    <div class="logo-container" style="width: 30%;">
+      <img src="./assets/logo.png" alt="Your logo" style="width: 100%;" />
+    </div>
+    <div class="intro-container" style="width: 70%;">
+      {{ content }}
+    </div>
+  </div>
       {{ content }}
 
       <footer class="site-footer">
