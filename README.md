@@ -4,8 +4,8 @@ As a PhD candidate in Statistics and Data Science at the University of Arizona, 
 ### Education
 - Ph.D. in Statistics and Data Science	
 University of Arizona
-* Dissertation: Cell Type Deconvolution using Single-Cell RNA-Seq Data	
-* Advisor: Dr. Lingling An	
+*Dissertation: Cell Type Deconvolution using Single-Cell RNA-Seq Data*	
+*Advisor: Dr. Lingling An*
 Minor in Biosystem Engineering	
 
 - MS. in Statistics and Operation Research
