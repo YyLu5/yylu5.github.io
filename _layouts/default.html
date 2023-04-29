@@ -35,21 +35,20 @@
   </style>
     </header>
 
-    <main id="content" class="main-content" role="main">
-      <div class="content-container" style="display: flex;">
+<main id="content" class="main-content" role="main">
+  <div class="content-container" style="display: flex;">
     <div class="logo-container" style="width: 30%; background-color: #f0f0f0; display: flex; flex-direction: column; margin-right: 50px;">
       <img src="./assets/pic.jpeg" alt="Your logo" style="width: 100%;" />
       <div class="logo-content">
-       <p style="font-size: 18px;">{{ site.logo_content }}</p>
-       <a href="https://www.linkedin.com/in/yingying-lu-8b4ab03a/" target="_blank">LinkedIn</a>
-       <a href="https://github.com/yylu5" target="_blank">GitHub</a>
+        <p style="font-size: 18px;">{{ site.logo_content }}</p>
+        <a href="https://www.linkedin.com/in/yingying-lu-8b4ab03a/" target="_blank">LinkedIn</a>
+        <a href="https://github.com/yylu5" target="_blank">GitHub</a>
       </div>
-    
+    </div>
     <div class="intro-container" style="width: 70%; flex-direction: column;">
       {% include include-readme.html %}
     </div>
   </div>
-
       <footer class="site-footer">
         {% if site.github.is_project_page %}
           <span class="site-footer-owner"><a href="{{ site.github.repository_url }}">{{ site.github.repository_name }}</a> is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a>.</span>
