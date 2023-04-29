@@ -11,8 +11,8 @@ Minor in Biosystem Engineering
 - MS. in Statistics and Operation Research         
 Southern Illinois University Edwardsville	  
 
-- MS. in Business Administration. 
-University of Arkansas	  
+- MS. in Business Administration     
+University of Arkansas	    
 
 - BS. in International Economics and Trade        
 Central South University of Forestry and Technology, China	  
