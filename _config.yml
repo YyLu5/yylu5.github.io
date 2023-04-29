@@ -1,5 +1,5 @@
 title: Yingying Lu
-logo: pic.jpeg
+header_image: /assets/banner.jpeg
 description: PhD candidate in Statistics and Data Science
 show_downloads: false
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
