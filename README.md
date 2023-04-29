@@ -19,4 +19,12 @@ University of Arkansas
 - BS. in International Economics and Trade        
 Central South University of Forestry and Technology, China	  
 
+# Research and Work Experience     
+- R.Ken Coit College of Pharmacy, University of Arizona, Tucson, Arizona        
+
+- Behr Process Corporation, Santa Ana, California        
+
+- Procter & Gamble, Fayetteville, Arkansas    
+
+- Walmart Stores, Inc., Bentonville, Arkansas        
 
