@@ -15,17 +15,7 @@
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
-    <header class="page-header" role="banner">
-      <img class="custom-header-image" src="./assets/banner.jpeg" alt="Your custom header image" />
-      <style>
-    .custom-header-image {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      position: absolute;
-      z-index: -1;
-    }
-    </style>
+    <header class="page-header" role="banner" style="background-image: url('./assets/banner.jpeg'); background-size: cover; background-position: center;">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
